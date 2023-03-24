@@ -1,41 +1,41 @@
 ## Geral
-Ctrl + Shift + P, = paleta de comando F1 Show </br>
-Ctrl + P Quick Open, = vá para o arquivo ... </br>
-Ctrl + Shift + N = Nova janela / instância </br>
-Ctrl + Shift + W = Fechar janela / instância </br>
-Ctrl +, = configurações do usuário </br>
-Ctrl + K Ctrl + S = Atalhos de teclado </br>
+Ctrl + Shift + P = **paleta de comando F1 Show** </br>
+Ctrl + P Quick Open = **vá para o arquivo ...** </br>
+Ctrl + Shift + N = **Nova janela / instância** </br>
+Ctrl + Shift + W = **Fechar janela / instância** </br>
+Ctrl +, = **configurações do usuário** </br>
+Ctrl + K Ctrl + S = **Atalhos de teclado** </br>
 
 
 
 ## Edição básica
 
 
-Ctrl + X = Linha de corte (seleção vazia) </br>
-Ctrl + C = Copiar linha (seleção vazia) </br>
-Alt + ↑ / ↓ = Mover linha para cima / baixo </br>
-Shift + Alt + ↓ / ↑ = Copiar linha para cima / baixo </br>
-Ctrl + Shift + K = Excluir linha </br>
-Ctrl + Enter = Inserir linha abaixo </br>
-Ctrl + Shift + Enter = Inserir linha acima </br>
-Ctrl + Shift + \ = Ir para o suporte correspondente </br>
-Ctrl +] / [ = linha Indent / outdent  </br>
-Home / End = Ir para o começo / fim da linha  </br>
-Ctrl + Home = Ir para o início do arquivo  </br>
-Ctrl + End = Ir para o final do arquivo  </br>
-Ctrl + ↑ / ↓ = Linha de rolagem para cima / baixo </br>
-Alt + PgUp / PgDn = Rola a página para cima / baixo </br>
-Ctrl + Shift + [ = Dobre (colapse) a região </br>
-Ctrl + Shift + ] = Desdobrar (uncollapse) região </br>
-Ctrl + K Ctrl + [ = Dobre (reduza) todas as sub-regiões </br>
-Ctrl + K Ctrl + ] = Desdobra (uncollapse) todas as sub-regiões </br>
-Ctrl + K Ctrl + 0 = Dobre (reduza) todas as regiões </br>
-Ctrl + K Ctrl + J = Desdobra (uncollapse) todas as regiões </br>
-Ctrl + K Ctrl + C = Adicionar comentário de linha </br>
-Ctrl + K Ctrl + U = Remover comentário de linha </br>
-Ctrl + / = Alternar comentário de linha </br>
-Shift + Alt + A = Alternar comentário do bloco </br>
-Alt + Z Toggle = quebra automática de palavras </br>
+Ctrl + X = **Linha de corte (seleção vazia)** </br>
+Ctrl + C = **Copiar linha (seleção vazia)** </br>
+Alt + ↑ / ↓ = **Mover linha para cima / baixo** </br>
+Shift + Alt + ↓ / ↑ = **Copiar linha para cima / baixo** </br>
+Ctrl + Shift + K = **Excluir linha** </br>
+Ctrl + Enter = **Inserir linha abaixo** </br>
+Ctrl + Shift + Enter =**Inserir linha acima** </br>
+Ctrl + Shift + \ = **Ir para o suporte correspondente** </br>
+Ctrl +] / [ = **linha Indent / outdent**  </br>
+Home / End = **Ir para o começo / fim da linha**  </br>
+Ctrl + Home = **Ir para o início do arquivo**  </br>
+Ctrl + End = **Ir para o final do arquivo**  </br>
+Ctrl + ↑ / ↓ = **Linha de rolagem para cima / baixo** </br>
+Alt + PgUp / PgDn = **Rola a página para cima / baixo** </br>
+Ctrl + Shift + [ = **Dobre (colapse) a região** </br>
+Ctrl + Shift + ] = **Desdobrar (uncollapse) região** </br>
+Ctrl + K Ctrl + [ =**Dobre (reduza) todas as sub-regiões** </br>
+Ctrl + K Ctrl + ] = **Desdobra (uncollapse) todas as sub-regiões** </br>
+Ctrl + K Ctrl + 0 = **Dobre (reduza) todas as regiões** </br>
+Ctrl + K Ctrl + J = **Desdobra (uncollapse) todas as regiões** </br>
+Ctrl + K Ctrl + C = **Adicionar comentário de linha** </br>
+Ctrl + K Ctrl + U = **Remover comentário de linha** </br>
+Ctrl + / = **Alternar comentário de linha** </br>
+Shift + Alt + A =**Alternar comentário do bloco** </br>
+Alt + Z Toggle = **quebra automática de palavras** </br>
 
 ## Navegação
 Ctrl + T = Mostrar todos os símbolos </br>
